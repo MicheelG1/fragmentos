@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fragmentos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint">Escriba un mensaje</string>
+    <string name="button">Contar</string>
+    <string name="button_agregar">Agregar contador</string>
+</resources>
